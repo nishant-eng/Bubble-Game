@@ -45,6 +45,6 @@ document.querySelector("#pbtm").addEventListener("click",function(details){
 makeBubble();
 getNewHit();
 runTimer();
-// increaseScore();
+increaseScore();
 
 
